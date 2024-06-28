@@ -32,3 +32,11 @@ class People:
         self.dna = ''.join(random.choices(['A', 'C', 'T', 'G'], k=1024))
 
 ```
+<div style="display: inline_block"><br>
+  <img src="https://github.com/alexandresaints/alexandresaints/blob/main/Profile--GitHubAuxiliaryFiles/javascript-plain.svg" width="50" height="40" align="center"/>
+  <img src="https://github.com/alexandresaints/alexandresaints/blob/main/Profile--GitHubAuxiliaryFiles/react-original.svg" width="50" height="40" align="center"/>
+  <img src="https://github.com/alexandresaints/alexandresaints/blob/main/Profile--GitHubAuxiliaryFiles/nodejs-original.svg" width="50" height="40" align="center"/>
+  <img src="https://github.com/alexandresaints/alexandresaints/blob/main/Profile--GitHubAuxiliaryFiles/git-plain.svg" width="50" height="40" align="center"/>
+  <img src="https://github.com/alexandresaints/alexandresaints/blob/main/Profile--GitHubAuxiliaryFiles/mysql-plain.svg" width="50" height="40" align="center"/>
+  <img src="https://github.com/alexandresaints/alexandresaints/blob/main/Profile--GitHubAuxiliaryFiles/mongodb-original.svg" width="50" height="40" align="center"/>
+</div>
