@@ -1,4 +1,4 @@
-### Olá! Me chamo Natan! 👋
+### Olá! Me chamo Natan ! 👋
 
 <!--
 **na7ank/na7ank** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -33,10 +33,14 @@ class People:
 
 ```
 <div style="display: inline_block"><br>
-  <img src="https://github.com/alexandresaints/alexandresaints/blob/main/Profile--GitHubAuxiliaryFiles/javascript-plain.svg" width="50" height="40" align="center"/>
-  <img src="https://github.com/alexandresaints/alexandresaints/blob/main/Profile--GitHubAuxiliaryFiles/react-original.svg" width="50" height="40" align="center"/>
-  <img src="https://github.com/alexandresaints/alexandresaints/blob/main/Profile--GitHubAuxiliaryFiles/nodejs-original.svg" width="50" height="40" align="center"/>
-  <img src="https://github.com/alexandresaints/alexandresaints/blob/main/Profile--GitHubAuxiliaryFiles/git-plain.svg" width="50" height="40" align="center"/>
-  <img src="https://github.com/alexandresaints/alexandresaints/blob/main/Profile--GitHubAuxiliaryFiles/mysql-plain.svg" width="50" height="40" align="center"/>
-  <img src="https://github.com/alexandresaints/alexandresaints/blob/main/Profile--GitHubAuxiliaryFiles/mongodb-original.svg" width="50" height="40" align="center"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="50" height="40" align="center"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/julia/julia-original.svg" width="50" height="40" align="center"/>      
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/docker/docker-original.svg" width="50" height="40" align="center"/>      
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postgresql/postgresql-original.svg" width="50" height="40" align="center"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mongodb/mongodb-original.svg" width="50" height="40" align="center"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nodejs/nodejs-original.svg" width="50" height="40" align="center"/>  
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" width="50" height="40" align="center"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" width="50" height="40" align="center"/>
+          
+
 </div>
