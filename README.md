@@ -1,4 +1,4 @@
-### Olá! Me chamo Natan ! 👋
+### Olá ! Aqui é o Natan ! 👋
 
 <!--
 **na7ank/na7ank** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,22 +14,6 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-
-```python
-import random
-from datetime import datetime
-
-class People:
-    def __init__(self, nome, altura, sex, nascimento):
-        self.nome   = nome
-        self.altura = altura
-        self.sex    = sex
-        self.nascimento = nascimento
-        # Idade
-        data_formatada = datetime.strptime(nascimento, "%Y-%m-%d")
-        self.idade = datetime.now().year - data_formatada.year
-        # DNA
-        self.dna = ''.join(random.choices(['A', 'C', 'T', 'G'], k=1024))
 
 ```
 <div style="display: inline_block"><br>
