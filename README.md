@@ -1,27 +1,17 @@
 ### Olá ! Aqui é o Natan ! 👋
 
-<!--
-**na7ank/na7ank** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+<div style="display: inline_block">
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Linguagens
+<img align="center" alt="Python" src="https://img.shields.io/badge/Python-333333?style=for-the-badge&logo=python&logoColor=white">
+<img align="center" alt="Julia" src="https://img.shields.io/badge/Julia-333333?style=for-the-badge&logo=julia&logoColor=white">
+<img align="center" alt="Node.js" src="https://img.shields.io/badge/Node.js-333333?style=for-the-badge&logo=nodedotjs&logoColor=white">
 
-<div style="display: inline_block"><br>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="50" height="40" align="center"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/julia/julia-original.svg" width="50" height="40" align="center"/>           
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postgresql/postgresql-original.svg" width="50" height="40" align="center"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original.svg" width="50" height="40" align="center"/>           
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" width="50" height="40" align="center"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" width="50" height="40" align="center"/>
-          
-
+### DataBase
+<img align="center" alt="Pinecone" src="https://img.shields.io/badge/Pinecone-470093?style=for-the-badge&logo=pinecone&logoColor=white">
+<img align="center" alt="MongoDB" src="https://img.shields.io/badge/MongoDB-470093?style=for-the-badge&logo=mongodb&logoColor=white">
+<img align="center" alt="PostgreSQL" src="https://img.shields.io/badge/PostgreSQL-470093?style=for-the-badge&logo=postgresql&logoColor=white">
+<img align="center" alt="SQL Server" src="https://img.shields.io/badge/SQL%20Server-470093?style=for-the-badge&logo=microsoftsqlserver&logoColor=white">
+<img align="center" alt="MySQL" src="https://img.shields.io/badge/MySQL-470093?style=for-the-badge&logo=mysql&logoColor=white">
 </div>
