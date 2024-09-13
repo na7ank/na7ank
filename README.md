@@ -16,5 +16,8 @@
 <img align="center" alt="MySQL" src="https://img.shields.io/badge/MySQL-470093?style=for-the-badge&logo=mysql&logoColor=white">
 
 ### Outras Redes
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/kaggle/kaggle-original-wordmark.svg" width="50px" href="https://www.kaggle.com/na7ank"/>
+<a href="https://www.kaggle.com/na7ank">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/kaggle/kaggle-original-wordmark.svg" width="50px" alt="Kaggle Logo"/>
+</a>
+
 </div>
