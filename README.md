@@ -17,6 +17,8 @@
 </div>
 
 ### Outras Redes
-<a href="https://www.kaggle.com/na7ank">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/kaggle/kaggle-original-wordmark.svg" width="50px" alt="Kaggle Logo"/>
-</a>
+<div>
+  <a href="https://www.kaggle.com/na7ank">@kaggle</a>
+  <a href="https://medium.com/@natanbronzatto">@medium</a>
+</div>
+
