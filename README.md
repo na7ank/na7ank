@@ -1,4 +1,4 @@
-## Olá! Aqui é o Natan! 👋
+
 
 ### Linguagens
 <div>
@@ -7,7 +7,7 @@
   <img alt="Node.js" src="https://img.shields.io/badge/Node.js-333333?style=flat&logo=nodedotjs&logoColor=white">
 </div>
 
-### DataBase
+### Banco de Dados
 <div>
   <img alt="Pinecone" src="https://img.shields.io/badge/Pinecone-470093?style=flat&logo=pinecone&logoColor=white">
   <img alt="MongoDB" src="https://img.shields.io/badge/MongoDB-470093?style=flat&logo=mongodb&logoColor=white">
@@ -16,9 +16,7 @@
   <img alt="MySQL" src="https://img.shields.io/badge/MySQL-470093?style=flat&logo=mysql&logoColor=white">
 </div>
 
-### Outras Redes
-<div>
-  <a href="https://www.kaggle.com/na7ank">@kaggle</a>
-  <a href="https://medium.com/@natanbronzatto">@medium</a>
-</div>
+## 🌐 Outras Redes!
 
+- [Kaggle](https://www.kaggle.com/na7ank)
+- [Medium](https://medium.com/@natanbronzatto)
